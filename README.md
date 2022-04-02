@@ -1,7 +1,7 @@
 # Hi there 👋,  I'm Javier Villegas
 ![I'm Mechatronic Engineer and Full Stack Developer](https://i.imgur.com/7MfeeSS.pnganner.png)
-## I'm Mechatronic Engineer
+## Mechatronic Engineer
 
-I’m really enjoy learning languages and frameworks like React, as well at the moment I'm looking for my first opportunity as a professional full stack developer. Therefore I'm expending a lot of time develop projects from scratch. I also enjoy electronic design since you combine both worlds, it's possible creates amazing things.
+I’m from Ecuador and I particularly enjoy learning languages and frameworks such as React. At this time of my career, I’m looking for a first opportunity as a professional full stack developer. For this reason, I spend a lot of time developing projects from scratch. I also enjoy electronic design because of its possibilities,  particularly the ability to combine both worlds and create amazing things.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javillegasna&show_icons=true&theme=dark)
