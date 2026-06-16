@@ -30,7 +30,7 @@ Currently a backend engineer at **Full Stack Labs**, building REST APIs (Go, Pos
 
 ### 📊 GitHub stats
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javillegasna&show_icons=true&theme=dark)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javillegasna&show_icons=true&include_all_commits=true&theme=dark)
 
 ### 📫 Reach me
 
