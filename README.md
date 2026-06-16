@@ -1,8 +1,10 @@
 # Hi 👋, I'm Javier Villegas
 
-**Mechatronic Engineer & Full-Stack Developer** from Ecuador 🇪🇨
+**Software Engineer · Backend Developer** — Go · Python · TypeScript · from Ecuador 🇪🇨
 
-I build backend services, developer tooling, and SaaS products — currently legal-tech and internal automation at **Ecualand**. I like systems that are well-tested, well-bounded, and actually shipped: modular monoliths, infrastructure as code, and the occasional MCP server.
+Full-stack software developer with a degree in Mechatronics Engineering, based in Quito. My main focus is **backend development with Python and Go** (FastAPI, Tornado, Gin, Express), with solid frontend skills in React, Next.js and TypeScript.
+
+Currently a backend engineer at **Full Stack Labs**, building REST APIs (Go, PostgreSQL, GORM) and event-ingestion pipelines for a security detection platform. Before that, ~3.5 years at **ioet Inc.** — microservices migrations, async Python, ETL, and event-driven systems on AWS. I'm also pursuing a Master's in Big Data & Data Science at the Universitat de Barcelona.
 
 🌐 Portfolio: **[javillegas.dev](https://javillegas.dev)**
 
@@ -12,13 +14,12 @@ I build backend services, developer tooling, and SaaS products — currently leg
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?logo=gin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
 
 ### 📌 Featured projects
 
